@@ -33,7 +33,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.reedgraff.vercel.app/api?username=reedgraff&show_icons=true&hide_border=true" />
+  [![Mt GitHub stats](https://github-readme-stats.vercel.app/api?username=ReedGraff)](https://github.com/ReedGraff/github-readme-stats)
+
 
 </details>
 
