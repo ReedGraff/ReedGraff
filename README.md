@@ -5,12 +5,11 @@
 
 ## Entrepreneur | Engineer | Orator
 
-- 🔭 I just launched my first course:
-Hey, I'm Reed. I was born and raised in Dallas, Texas. I study computer science, mechanical engineering, and I love a good debate. The primary area of my expertise is in 3D design, light coding projects, and physics. I am looking to expand my knowledge of aerospace engineering throughout the rest of my educational career.
+- Hey, I'm Reed. I was born and raised in Dallas, Texas. I study computer science, mechanical engineering, and I love a good debate. The primary area of my expertise is in 3D design, light coding projects, and physics. I am looking to expand my knowledge of aerospace engineering throughout the rest of my educational career.
 
 ### Connect with me:
 
-[<img align="left" alt="TheReedGraff.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="TheReedGraff.com" width="22px" src="https://thereedgraff.herokuapp.com/assets/img/Logo.png" />][website]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
